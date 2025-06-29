@@ -1,3 +1,1 @@
 ﻿# Hospital-Management-System
-# Hospital-Management-System
-##Mostafiz Gay
